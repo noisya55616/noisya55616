@@ -6,4 +6,4 @@
 - :zap: I'm looking for work for Winter 2024 and beyond. Take a look at my [resume](https://simonwu.dev/docs/resume.pdf) if interested.
 - :books: I enjoy reading about a wide range of topics in various genres. You can find a non-exhaustive reading list [here](https://libib.com/u/simonwu).
 
-[<--](https://cozyring-shangmingwu.vercel.app/prev/sw-gh) | Cozyring | [-->](https://cozyring-shangmingwu.vercel.app/next/sw-gh)
+[<--](https://cozyring-shangmingwu.vercel.app/prev/sw-gh) Cozyring [-->](https://cozyring-shangmingwu.vercel.app/next/sw-gh)
